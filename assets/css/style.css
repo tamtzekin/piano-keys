@@ -1,0 +1,19 @@
+.keys {
+    fill:#fff;
+}
+
+.hover-a:hover {
+    fill: #601818;
+}
+
+.hover-b:hover {
+    fill: #ffaa18 ;
+}
+
+.hover-c:hover {
+    fill: #b9c0de ;
+}
+
+.hover-d:hover {
+    fill: #dae9d3 ;
+}
